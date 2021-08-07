@@ -13,5 +13,5 @@
 
 * This is an applied scientific study where drones are used to detect fires and possible prevent
 * the spread using Convolutional Neural Networks (CNN).
-* Happy Reading! (Jiao2009.pdf)
+* Happy Reading! (Jiao2019.pdf)
 * Reference DOI: 10.1109/ICIAI.2019.8850815
